@@ -10,4 +10,8 @@ class XtdGearInfos
 	{
 		#include "infos\backpackInfos.hpp"
 	};
+	class CfgGlasses
+	{
+		#include "infos\facewearInfos.hpp"
+	};
 };

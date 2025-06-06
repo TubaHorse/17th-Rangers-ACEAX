@@ -16,4 +16,8 @@ class XtdGearModels
     {
         #include "models\backpackModels.hpp"
     };
+    class CfgGlasses
+	{
+        #include "models\facewearModels.hpp"
+	};
 };

@@ -123,3 +123,20 @@ class 17th_legstrap: 17th_carryall
 {
 	label="[17BN] Legstrap";
 };
+
+class 17th_backpanel
+{
+	label="[TFA] Backpanel";
+	options[]={"camo","role"};
+	class camo
+	{
+		values[]={"CYT","MC","RGR"};
+	};
+	class role
+	{
+		label="Role";
+		values[]={"Breacher","Hydration","Pointman","Tomahawk"};
+		alwaysSelectable=1;
+		changeInGame=0;
+	};
+};

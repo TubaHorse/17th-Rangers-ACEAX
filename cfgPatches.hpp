@@ -1,4 +1,4 @@
-class 17th_Compat
+class 17th_aceaxCompat
 {
     author="Armad";
     version=1.0;

@@ -296,3 +296,75 @@ class 17TH_legstrap_m81
 	model="17th_legstrap";
 	camo="M81";
 };
+class tfa_bp_breacher_coy
+{
+	model="17th_backpanel";
+	camo="CYT";
+	role="Breacher";
+};
+class tfa_bp_breacher_mc
+{
+	model="17th_backpanel";
+	camo="MC";
+	role="Breacher";
+};
+class tfa_bp_breacher_rngrn
+{
+	model="17th_backpanel";
+	camo="RGR";
+	role="Breacher";
+};
+class tfa_bp_hydration_coy
+{
+	model="17th_backpanel";
+	camo="CYT";
+	role="Hydration";
+};
+class tfa_bp_hydration_mc
+{
+	model="17th_backpanel";
+	camo="MC";
+	role="Hydration";
+};
+class tfa_bp_hydration_rngrn
+{
+	model="17th_backpanel";
+	camo="RGR";
+	role="Hydration";
+};
+class tfa_bp_pointman_coy
+{
+	model="17th_backpanel";
+	camo="CYT";
+	role="Pointman";
+};
+class tfa_bp_pointman_mc
+{
+	model="17th_backpanel";
+	camo="MC";
+	role="Pointman";
+};
+class tfa_bp_pointman_rngrn
+{
+	model="17th_backpanel";
+	camo="RGR";
+	role="Pointman";
+};
+class tfa_bp_tomahawk_coy
+{
+	model="17th_backpanel";
+	camo="CYT";
+	role="Tomahawk";
+};
+class tfa_bp_tomahawk_mc
+{
+	model="17th_backpanel";
+	camo="MC";
+	role="Tomahawk";
+};
+class tfa_bp_tomahawk_rngrn
+{
+	model="17th_backpanel";
+	camo="RGR";
+	role="Tomahawk";
+};

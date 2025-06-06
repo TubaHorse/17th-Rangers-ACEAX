@@ -25,7 +25,7 @@ class 17th_G3
 		label="Sleeves";
 		values[]={"Down","Up"};
 		alwaysSelectable=1;
-		changeInGame=0;
+		changeInGame=1;
 	};
 	class dive: yesNoBase
 	{
