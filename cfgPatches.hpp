@@ -19,6 +19,5 @@ class 17th_aceaxCompat
         "17BN_asip",
         "tfa_backpacks"
     };
-	//skipWhenMissingDependencies = 1;
-    // Uncomment the above line if this is being made a submod
+	skipWhenMissingDependencies = 1;
 };
