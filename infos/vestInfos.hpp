@@ -1,20 +1,39 @@
 // Battlebelts
+class tfa_v_battle_belt_assault_blk
+{
+	model="17th_belt";
+	camo="BLK";
+	type="Assault";
+};
+class tfa_v_battle_belt_hgunner_blk
+{
+	model="17th_belt";
+	camo="BLK";
+	type="Heavy Gunner";
+};
+class tfa_v_battle_belt_pistol_blk
+{
+	model="17th_belt";
+	camo="BLK";
+	type="Pistol";
+};
+
 class tfa_v_battle_belt_assault_coy
 {
 	model="17th_belt";
-	camo="COY";
+	camo="CYT";
 	type="Assault";
 };
 class tfa_v_battle_belt_hgunner_coy
 {
 	model="17th_belt";
-	camo="COY";
+	camo="CYT";
 	type="Heavy Gunner";
 };
 class tfa_v_battle_belt_pistol_coy
 {
 	model="17th_belt";
-	camo="COY";
+	camo="CYT";
 	type="Pistol";
 };
 class tfa_v_battle_belt_assault_mc
